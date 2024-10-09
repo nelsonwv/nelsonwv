@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+### My name is Waldean 
+I'm currently a data analyst student @ Hyper Island in Stockholm, Sweden
 <!--
 **nelsonwv/nelsonwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
