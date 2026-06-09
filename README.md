@@ -4,7 +4,7 @@ Data Analyst with a growing focus on Analytics Engineering and Data Engineering.
 
 🎓 Recently graduated from Hyper Island's Data Analytics program
 
-## 🔧 Technologies
+## 🔧 Tech Stack
 
 - Python
 - SQL
